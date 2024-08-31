@@ -54,7 +54,7 @@ To use the **MCQ_via_LLM_Dataset**, please follow the instructions below:
    ```bash
    git clone https://github.com/logos000/MCQ_via_LLM_Dataset.git
    ```
-2. **Explore the Dataset**: The dataset files are organized into different folders based on the five critical tasks. Review the README files within each folder for detailed descriptions and usage guidelines.
+2. **Explore the Dataset**: The dataset files are organized into different folders based on the five critical tasks. Review the README files for detailed descriptions and usage guidelines.
 
 ## Contact
 
