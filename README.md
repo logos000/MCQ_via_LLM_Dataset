@@ -56,21 +56,6 @@ To use the **MCQ_via_LLM_Dataset**, please follow the instructions below:
    ```
 2. **Explore the Dataset**: The dataset files are organized into different folders based on the five critical tasks. Review the README files within each folder for detailed descriptions and usage guidelines.
 
-## Citation
-
-If you use this dataset in your research, please cite our paper:
-
-```
-@article{yourpaper2024,
-  title={Generating Multiple Choice Questions from Scientific Literature via Large Language Models},
-  author={Shunyang Luo, Yuqi Tang},
-  journal={Journal of AI and Education},
-  year={2024},
-  volume={XX},
-  pages={XXX-XXX},
-}
-```
-
 ## Contact
 
 For any questions or inquiries, please feel free to contact us at [sl186@illinois.edu].
